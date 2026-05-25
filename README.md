@@ -2,6 +2,10 @@
 
 A todo app that demonstrates the core API of [@fynyky/elemental](https://github.com/fynyky/elemental), a minimal reactive UI library with no build step required.
 
+## Live demo
+
+[https://fynyky.github.io/elemental-demo/](https://fynyky.github.io/elemental-demo/)
+
 ## Running
 
 ```bash
