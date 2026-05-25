@@ -1,0 +1,12 @@
+{
+  "name": "elemental-demo",
+  "version": "1.0.0",
+  "description": "A todo app showcasing @fynyky/elemental reactive UI library",
+  "scripts": {
+    "start": "serve -l 3000",
+    "dev": "serve -l 3000"
+  },
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
